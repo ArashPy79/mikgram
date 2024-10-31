@@ -1,0 +1,38 @@
+admin_id:
+  - 731704898633
+
+
+TOKEN: "...."
+license : "....."
+
+mikrotik_ip: "1.1.1.1"
+username: "user"
+password: "pass"
+
+listp:
+  - name: "paln"
+    price: 35
+    text: "text"
+
+
+testP: "TEST"
+
+ovpn_test_file: "OpenVPN.ovpn"
+open_file: "OpenVPN.ovpn"
+
+text_user_test: ""
+text_user: ""
+
+base_name: "user"
+
+pass_panel: "admin_pass"
+
+text_main_menu: |
+  سلااام به ربات  VPN خوش اومدی 🫡🌸
+
+  ما اینجاییم تا شما را بدون هیچ محدویتی به شبکه جهانی متصل کنیم
+
+  📡 برقرای امنیت در ارتباط شما
+  ☎️ پشتیبانی تا روز آخر
+
+username_admin: "@vpn"
